@@ -1,0 +1,24 @@
+{
+  "name": "sample-node-project-2",
+  "version": "1.0.0",
+  "description": "Sample Node Project 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madelinemee/sample-node-project-2.git"
+  },
+  "keywords": [],
+  "author": "Mary Adeline Mejia <mary.mejia@gmanmi.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madelinemee/sample-node-project-2/issues"
+  },
+  "homepage": "https://github.com/madelinemee/sample-node-project-2#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "typescript": "^3.3.4000"
+  }
+}
